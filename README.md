@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Th3Deep
 - 👀 I’m interested in automatization and cyber security.
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on with all i can <3
+- 💞️ I’m looking to collaborate with all i can <3
